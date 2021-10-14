@@ -5,7 +5,7 @@
 * Pablo WBK || [Github Profile](https://github.com/pablowbk)
 
 ### _Landing Page_
-![landingPage](images/)
+![landingPage](https://chingu-v9-geckos-04.netlify.app/) (only works with Chrome)
 
 ## Technologies Used
 
